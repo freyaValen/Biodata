@@ -6,6 +6,7 @@ import Education from "./Education";
 import Language from "./Language";
 import Achievement from "./Achievement";
 import Skills from "./Skills";
+import Experience from "./Experience";
 
 export {
     Photo,
@@ -15,5 +16,6 @@ export {
     Education,
     Language,
     Achievement,
-    Skills
+    Skills,
+    Experience
 }
